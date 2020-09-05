@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Research"
+    url: /research/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Awards"
     url: /awards/
+
+  - title: "CV"
+      url: /cv/
