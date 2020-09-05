@@ -11,7 +11,7 @@ redirect_from:
   <img src="/images/malsha_profile.jpg" alt="Photo" style="width: 225px;height:300px"/> 
 </p>
 
-I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)) at University of Moratuwa.
+I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)), University of Moratuwa.
 
 My final year research thesis was on designing a cost effective dry contact sEMG sensor system for controlling a bionic hand.
 
