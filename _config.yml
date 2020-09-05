@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Malsha V. Perera"
 title_separator          : "-"
-name                     : &name "Malsha Vijini Perera"
+name                     : &name "Malsha Perera"
 description              : &description "Biomedical Engineering Graduate"
 url                      : https://malshaV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Malsha Perera"
+  name             : "Malsha Vijini Perera"
   avatar           : "malsha_profile.jpg"
   bio              : "I'm a Biomedical Engineering Graduate from University of Moratuwa"
   location         : "Sri Lanka"
