@@ -14,6 +14,7 @@ author_profile: true
 * **Dialog Merit Scholarship** for Engineering Undergraduates, 2015 - 2019.
 * **Mahapola Higher Education Scholarship** for undergraduates, 2015 - 2019.
 * **Dialog Merit Scholarship** for Advanced Level Mathematics Students, 2012 - 2014.
+* **Dialog Merit Scholarship** for Advanced Level Mathematics Students, 2012 - 2014.
 
 
 
