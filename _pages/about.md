@@ -7,4 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-UNDER CONSTRUCTION
+<p align="center">
+  <img src="/images/malsha_profile.jpg" alt="Photo" style="width: 450px;"/> 
+</p>
+

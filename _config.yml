@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malsha Perera"
+title                    : "Malsha V. Perera"
 title_separator          : "-"
-name                     : &name "Malsha Perera"
+name                     : &name "Malsha Vijini Perera"
 description              : &description "Biomedical Engineering Graduate"
 url                      : https://malshaV.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
