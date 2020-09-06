@@ -13,6 +13,7 @@ author_profile: true
 * **Asian Physics Olympiad**, Member of National Team, China, 2015.
 * **Dialog Merit Scholarship** for Engineering Undergraduates, 2015 - 2019.
 * **Mahapola Higher Education Scholarship** for undergraduates, 2015 - 2019.
+* **Sri Lankan Physics Olympiad**, Silver Medalist, Sri Lanka, 2014
 * **Dialog Merit Scholarship** for Advanced Level Mathematics Students, 2012 - 2014.
 
 
