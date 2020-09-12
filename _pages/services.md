@@ -14,3 +14,8 @@ Being the inaugural and the only IEEE EMBS Student Branch Chapter to operate wit
 * Organizing Committee Member, TechMedImpact Forum 2017 - Inaugural forum on Biomedical Engineeringin Sri Lanka
 * Organizing Committee Member, "Hack Your Thoughts" Brain-Computer InterfacesWorkshop at MERCON 2018
 * Organizing Committee Member, BME Seminar Series during 2016 - 2020
+
+<br>
+### Student Representative, Department of Electronic and Telecommunication Engineering, University of Moratuwa
+<br>
+Served as a Student representative of undergraduate students (approx.  100) of the 2015 batch, at the Dept of Electronic and Telecommunication Engineering, University of Moratuwa from September 2017 to January 2019.
