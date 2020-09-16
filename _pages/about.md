@@ -17,7 +17,7 @@ My final year research thesis was on designing a cost effective dry contact sEMG
 
 I did my internship at Singapore Bioimaging Consortium ([SBIC](https://www.a-star.edu.sg/sbic)), Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)) under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Asistant Prof. [Shigeki Sugii](https://www.duke-nus.edu.sg/directory/detail/sugii-shigeki).
 During the internship I was involved in developing a fluorescent microscopy image based analytical system to automatically identify the
-browning of adipocytes and  implementing a deeplearning framework for brain hemorrhage in segmentation in CT images.
+browning of adipocytes and  implementing a deeplearning framework for brain hemorrhage segmentation in CT images.
 
 My research interests lie in the areas of <b>signal processing</b>, <b>machine learning</b>, <b>neuroscience</b> and <b>medical image processing</b>.
 
