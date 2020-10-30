@@ -8,6 +8,16 @@ UNDER CONSTRUCTION
 
 ### Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand
 <br>
+
+ <div class="row">
+  <div class="column">
+    <img src="/images/TMA.PNG" alt="TMA" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/Hand.jpg" alt="Hand" style="width:100%">
+  </div>
+</div> 
+
 Surface Electromyogram (sEMG) signals from the forearm is widely used as a source for gesture controlled
 applications and prosthesis control.This project involves development of a real-time gesture recognition algorithm using forearm sEMG signals and development of a cost effective electrode system to acquire forearm signals, with the aim of controlling a bionic arm. Most commonly used approach in hand gesture recognition tasks is to extract a set of temporal and frequency domain
 features from acquired sEMG recordings and then classify them using different learning algorithms such as SVM and LDA. In these studies the sEMG recordings from electrodes placed on the forearm  are treated as individual and uncorrelated entities. However we observed a correlated nature between the signal channels whenever a gesture is elicited. Hence we came up with a novel idea of Temporal Muscle Activation Maps that can represent the individual and mutual activation
