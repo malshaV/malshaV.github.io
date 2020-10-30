@@ -11,10 +11,10 @@ UNDER CONSTRUCTION
 
  <div class="row">
   <div class="column">
-    <img src="/images/TMA.PNG" alt="TMA" style="width:100%">
+    <img src="/images/TMA.PNG" alt="TMA" style="width:120px;height:100px;">
   </div>
   <div class="column">
-    <img src="/images/Hand.jpg" alt="Hand" style="width:100%">
+    <img src="/images/Hand.jpg" alt="Hand" style="width:120px;height:100px;">
   </div>
 </div> 
 
