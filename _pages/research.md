@@ -9,9 +9,12 @@ UNDER CONSTRUCTION
 ### Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand
 <br>
 
+<p>
 <img src="/images/TMA.PNG" alt="TMA" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
 <img src="/images/Hand.jpg" alt="Hand" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+</p>
+
+
 
 
 Surface Electromyogram (sEMG) signals from the forearm is widely used as a source for gesture controlled
