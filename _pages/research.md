@@ -11,8 +11,6 @@ UNDER CONSTRUCTION
 
 <p>
 <img src="/images/TMA.PNG" alt="TMA" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
-<img src="/images/Hand.jpg" alt="Hand" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
-<p style="clear: both;">
 </p>
 
 
