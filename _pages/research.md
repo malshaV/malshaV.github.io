@@ -4,8 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 
-UNDER CONSTRUCTION
-
 ### Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand
 <br>
 
