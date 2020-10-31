@@ -12,10 +12,9 @@ UNDER CONSTRUCTION
 <p>
 <img src="/images/TMA.PNG" alt="TMA" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
 <img src="/images/Hand.jpg" alt="Hand" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
+<p style="clear: both;">
 </p>
 
-
-<p style="clear: both;">
 
 Surface Electromyogram (sEMG) signals from the forearm is widely used as a source for gesture controlled
 applications and prosthesis control.This project involves development of a real-time gesture recognition algorithm using forearm sEMG signals and development of a cost effective electrode system to acquire forearm signals, with the aim of controlling a bionic arm. Most commonly used approach in hand gesture recognition tasks is to extract a set of temporal and frequency domain
