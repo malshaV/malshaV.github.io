@@ -7,8 +7,8 @@ author_profile: true
 ### Designing a Cost Effective Dry Contact sEMG Sensor System for Controlling a Bionic Hand
 <br>
 
-<p>
-<img src="/images/TMA.PNG" alt="TMA" style="float: left; width: 40%; margin-right: 5%; margin-bottom: 0.5em;">
+<p align="center">
+<img src="/images/FYP.PNG" alt="TMA" style="width: 500px;height:250px"/>
 </p>
 
 
