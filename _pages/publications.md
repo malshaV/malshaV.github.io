@@ -14,7 +14,7 @@ Asma M. Naim, Kithmin Wickramasinghe, Ashwin De Silva, <b>Malsha V. Perera</b>, 
 <i>IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020</i>. (Accepted) [[paper](https://arxiv.org/abs/2009.02575)]
 
 
-b>\A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
+<b>A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
 <b>Malsha V. Perera\*</b>, Ashwin De Silva\*.
 <i>Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[paper](https://arxiv.org/abs/2010.13268)]
 
