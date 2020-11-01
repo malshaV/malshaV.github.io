@@ -23,3 +23,7 @@ Fitness rubber band or the resistive band is widely used in comprehensive full-b
  We designed the necessary electronic circuitry to get strain measurements from the two strain gauges and communicated these measurements to the computer via WiFi. 
  We determined the relationship between the strain and force by measuring the strain under different force conditions.
  The force and the jerk values were plotted real-time using Matlab.
+
+
+
+ ### Simulation of Wave function using Schrodinger's wave equation
