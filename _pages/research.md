@@ -21,7 +21,7 @@ In order to acquire sEMG signals from the forearm we developed a active, dry-con
 The electrode sensors were evaluated with a finger gesture classification experiment, and the CMRR of the sensor was experimentally characterized as well. ([TMA_maps_paper](https://ieeexplore.ieee.org/document/9054227),[Electrodes_paper](https://arxiv.org/abs/2009.02575))
 </p>
 
-<br>
+
 ### Retinal and Conjunctival Vascular Tortuosity Analysis
 <br>
 <p align="justify">
@@ -31,7 +31,7 @@ The vessel probability maps are obtained using fully convolutional neural networ
 The extracted vessels were skeletonized and  tortuosity was computed using several tortuosity indices. These calculated tortuosity values were used to analyze the association of diabetes with retinal and conjunctival vascular tortuosities.
 </p>
 
-<br>
+
 ### Deep Learning based Phase Unwrapping
 <br>
 <p align="justify">
