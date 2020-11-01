@@ -15,7 +15,6 @@ First, Generalized Anscombe Transformation (GAT) is used for Guassianizing the m
 At the end of the segmentation process, Inverse GAT is performed on the segmented PET images to achieve denoising. 
 
 
- 
  ### Fitness Rubber band Exercise Monitor
  
  Fitness rubber band or the resistive band is widely used in comprehensive full-body workouts which are used to exercise most of the major muscle groups in the body.
