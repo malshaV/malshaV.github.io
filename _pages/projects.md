@@ -7,9 +7,7 @@ author_profile: true
 ### Joint Solution for PET Image Segmentation and Denoising
 <br>
 
-<p align="center">
 <img src="/images/AP_PET.PNG" alt="AP" style="width: 345px;height:140px"/>
-</p>
 
 <p align="justify">
 In this project I implemented a research paper on Joint Solution for PET Image Segmentation and Denoising on ITK.
