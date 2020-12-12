@@ -21,6 +21,6 @@ Asma M. Naim, Kithmin Wickramasinghe, Ashwin De Silva, <b>Malsha V. Perera</b>, 
 
 <b>A Thickness Sensitive Vessel Extraction Framework for Retinal and Conjunctival Vascular Tortuosity Analysis</b> <br>
 Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, N. Wijethilake, S. Jayasinghe, N. Dayananda, and A. C. De Silva.
-<i>Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/TBME.pdf)]
+<i>Submitted to IEEE Transactions on Biomedical Engineering</i>. [[pdf]({{site.url}}/files/TBME.pdf)]
 
 [\* denotes equal contribution]
