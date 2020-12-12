@@ -6,17 +6,21 @@ author_profile: true
 <br>
 <b>Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals</b> <br> 
 Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, Kithmin Wickramasinghe, Asma M. Naim , Thilina Dulantha Lalitharatne and Simon L. Kappel.
-<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[paper](https://ieeexplore.ieee.org/document/9054227)]
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[pdf]({{site.url}}/files/ICASSP_2020.pdf)]
 
 
 <b>Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms</b> <br> 
 Asma M. Naim, Kithmin Wickramasinghe, Ashwin De Silva, <b>Malsha V. Perera</b>, Thilina Dulantha Lalitharatne and Simon L. Kappel.
-<i>IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020</i>. (Accepted) [[paper](https://arxiv.org/abs/2009.02575)] [[pdf]({{site.url}}/files/SMC.pdf)]
+<i>IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020</i>. (Accepted)  [[pdf]({{site.url}}/files/SMC.pdf)]
 
 
 <b>A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
 <b>Malsha V. Perera\*</b>, Ashwin De Silva\*.
-<i>Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[paper](https://arxiv.org/abs/2010.13268)]
+<i>Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/Phase_unwrap.pdf)]
 
+
+<b>A Thickness Sensitive Vessel Extraction Framework for Retinal and Conjunctival Vascular Tortuosity Analysis</b> <br>
+Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, N. Wijethilake, S. Jayasinghe, N. Dayananda, and A. C. De Silva.
+<i>Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/TBME.pdf)]
 
 [\* denotes equal contribution]
