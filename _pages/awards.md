@@ -19,10 +19,10 @@ author_profile: true
 
  
 
-<img src="/images/WIE.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/images/Dialog1.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/WIE.jpg" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/Dialog1.jpg" style="float: left; width: 40%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <p style="clear: both;">
 
-<img src="/images/Olympiad.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/Olympiad.jpg" style="float: left; width: 50%; margin-right: 25%; margin-bottom: 0.5em;">
 <p style="clear: both;">
