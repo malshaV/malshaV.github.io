@@ -18,6 +18,8 @@ At the end of the segmentation process, Inverse GAT is performed on the segmente
 
 ### Fitness Rubber band Exercise Monitor
 
+<img src="/images/Fitness_rubber.PNG" alt="fit" style="width: 879px;height:358px"/>
+
 Fitness rubber band or the resistive band is widely used in comprehensive full-body workouts which are used to exercise most of the major muscle groups in the body.
  Monitoring these parameters such as force and jerk applied on the rubber band during exercise can be useful in evaluating whether the patient has performed the prescribed exercises correctly. To get these measurements, we attached the rubber band to a small metal frame where two strain gauges were attached to its surface.
  We designed the necessary electronic circuitry to get strain measurements from the two strain gauges and communicated these measurements to the computer via WiFi. 
