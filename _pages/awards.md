@@ -17,19 +17,11 @@ author_profile: true
 * **Dialog Merit Scholarship** for Advanced Level Mathematics Students, 2012 - 2014.
 
 
- <div class="row">
-  <div class="column">
-    <img src="/images/WIE.jpg" alt="wie" style="width:40%">
-  </div>
-  <div class="column">
-    <img src="/images/Olympiad.jpg" alt="ipho" style="width:20%">
-  </div>
-  <div class="column">
-    <img src="/images/Dialog.jpg" alt="dialog" style="width:40%">
-  </div>
-</div> 
+ 
+
+<img src="/images/WIE.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/Olympiad.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/Dialog.jpg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
 
 
-
-
-
+<p style="clear: both;">
