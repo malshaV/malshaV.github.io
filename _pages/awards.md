@@ -25,4 +25,4 @@ author_profile: true
 
 <p style="clear: both;">
 
-<p style="text-align:center; font-size: 8pt; margin-bottom: 0.5em"><img src="/images/Olympiad.jpg" alt="Logo">IPhO 2015</p>
+<p style="text-align:center; font-size: 8pt; margin-bottom: 0.5em"><img src="/images/Olympiad.jpg" alt="Logo">IPhO</p>
