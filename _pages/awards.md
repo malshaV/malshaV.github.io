@@ -20,7 +20,7 @@ author_profile: true
  
 
 <img src="/images/WIE.jpg" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/images/Dialog1.jpg" style="float: right; width: 40%; height:632px; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="/images/Dialog1.jpg" style="float: right; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
 
 <p style="clear: both;">
 
