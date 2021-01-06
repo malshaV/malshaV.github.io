@@ -19,13 +19,13 @@ author_profile: true
 
  <div class="row">
   <div class="column">
-    <img src="/images/WIE.jpg" alt="wie" style="width:100%">
+    <img src="/images/WIE.jpg" alt="wie" style="width:40%">
   </div>
   <div class="column">
-    <img src="/images/Olympiad.jpg" alt="ipho" style="width:100%">
+    <img src="/images/Olympiad.jpg" alt="ipho" style="width:20%">
   </div>
   <div class="column">
-    <img src="/images/Dialog.jpg" alt="dialog" style="width:100%">
+    <img src="/images/Dialog.jpg" alt="dialog" style="width:40%">
   </div>
 </div> 
 
