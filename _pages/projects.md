@@ -26,4 +26,4 @@ Fitness rubber band or the resistive band is widely used in comprehensive full-b
 
 
 
- ### Simulation of Wave function using Schrodinger's wave equation
+<!-- ### Simulation of Wave function using Schrodinger's wave equation -->

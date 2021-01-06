@@ -22,6 +22,8 @@ The electrode sensors were evaluated with a finger gesture classification experi
 
 ### Retinal and Conjunctival Vascular Tortuosity Analysis
 
+<img src="/images/TBME_pic.PNG" alt="TBME" style="width: 560px;height:215px"/>
+
 In this research we analysed the association of retinal and conjunctival vascular tortuosity with diabetes. Previous studies in the literature suggests that the vascular tortuosity is a bio marker for any systemic diseases and these studies also suggests that the vascular tortuosity varies with the thickness of the vessels.
 This creates a need of a framework that can extract vessels of a desired thickness. To this end, we propose a framework that can extract vessels of specified thicknesses from retinal fundus images or external eye images. The proposed framework consist of a vessel probability map generation step followed by few post processing steps.
 The vessel probability maps are obtained using fully convolutional neural network architecture; Iternet which is trained separately to obtain vessel probability maps for retinal and external eye images. The vessels of desired thicknesses are extracted using the generated vessel probability maps and a hessian based multiscale vessel enhancement techniques.
@@ -30,6 +32,8 @@ The extracted vessels were skeletonized and  tortuosity was computed using sever
 
 
 ### Deep Learning based Phase Unwrapping
+
+<img src="/images/phase_unwrap.PNG" alt="phase" style="width: 661px;height:285px"/>
 
 Phase unwrapping is a prevalent problem in Quantitative Susceptibility Mapping (QSM) in Magnetic Resonance Imaging. The objective of phase unwrapping is to recover the true phase from a wrapped phase signal. Conventional phase unwrapping techniques are prone to errors at lower SNR values and expend a high computational time. Recently, few studies have explored the possibility of using deep learning based techniques to perform phase unwrapping under severe noise conditions and with a lower computational time. However, these deep learning based methods require large datasets for training, thus limiting the application in real- world scenarios.
 Most wrapped phase images contain global spatial structures that can provide information relevant to the mapping between the wrapped phase and true phase images. However,  the existing deep learning based phase unwrapping techniques are comprised of typical Fully Convolutional Networks which ignore the spatial relationships among different local regions of a given image.
