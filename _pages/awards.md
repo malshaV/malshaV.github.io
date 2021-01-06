@@ -19,9 +19,10 @@ author_profile: true
 
  
 
-<img src="/images/WIE.jpg" style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="/images/Dialog1.jpg" style="float: right; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
+<p style="float: left; font-size: 8pt; text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/WIE.jpg" style="width: 100%">IEEE WIE Robotics Competition</p>
+<p style="float: right; font-size: 8pt; text-align: center; width: 48%; margin-right: 1%; margin-bottom: 0.5em;"><img src="/images/Dialog1.jpg" style="width: 100%">Dialog Merit Scholarship 2015</p>
+
 
 <p style="clear: both;">
 
-<p style="text-align:center;"><img src="/images/Olympiad.jpg" alt="Logo"></p>
+<p style="text-align:center; font-size: 8pt;"><img src="/images/Olympiad.jpg" alt="Logo">IPhO 2015</p>
