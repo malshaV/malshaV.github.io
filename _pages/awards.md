@@ -24,5 +24,4 @@ author_profile: true
 
 <p style="clear: both;">
 
-<img src="/images/Olympiad.jpg" style="float: left; width: 50%; margin-right: 25%; margin-bottom: 0.5em;">
-<p style="clear: both;">
+<p style="text-align:center;"><img src="/images/Olympiad.jpg" alt="Logo"></p>
