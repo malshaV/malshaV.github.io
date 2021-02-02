@@ -11,7 +11,7 @@ Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, Kithmin Wickramasinghe, Asma M. Na
 
 <b>Low-Cost Active Dry-Contact Surface EMG Sensor for Bionic Arms</b> <br> 
 Asma M. Naim, Kithmin Wickramasinghe, Ashwin De Silva, <b>Malsha V. Perera</b>, Thilina Dulantha Lalitharatne and Simon L. Kappel.
-<i>IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020</i>. (Accepted)  [[pdf]({{site.url}}/files/SMC.pdf)]
+<i>IEEE International Conference on Systems, Man and Cybernetics (SMC), Toronto, Canada, 2020</i>. [[pdf]({{site.url}}/files/SMC.pdf)]
 
 
 <b>A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
