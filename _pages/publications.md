@@ -16,7 +16,7 @@ Asma M. Naim, Kithmin Wickramasinghe, Ashwin De Silva, <b>Malsha V. Perera</b>, 
 
 <b>A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
 <b>Malsha V. Perera\*</b>, Ashwin De Silva\*.
-<i>Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/Phase_unwrap.pdf)]
+<i>Accepted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/Phase_unwrap.pdf)]
 
 
 <b>A Thickness Sensitive Vessel Extraction Framework for Retinal and Conjunctival Vascular Tortuosity Analysis</b> <br>
