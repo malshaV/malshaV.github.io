@@ -35,10 +35,19 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 ###  Selected Publications
+* <b>Transformer-based SAR Image Despeckling</b><br>
+<b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
+<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper]{https://arxiv.org/pdf/2201.09355.pdf}], [[code](https://github.com/malshaV/sar_transformer)]
+
+* <b>Transformer-based SAR Image Despeckling</b><br>
+<b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
+<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper]{https://arxiv.org/pdf/2201.09355.pdf}], [[code](https://github.com/malshaV/sar_transformer)]
+
 * <b>A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
-<b>Malsha V. Perera\*</b>, Ashwin De Silva\*.
-<i>Accepted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/Phase_unwrap.pdf)]
+<b>M. V. Perera\*</b>, A. De Silva\*.
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2021</i>. [[pdf]({{site.url}}/files/Phase_unwrap.pdf)]
+
 * <b>Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals</b> <br> 
-Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, Kithmin Wickramasinghe, Asma M. Naim , Thilina Dulantha Lalitharatne and Simon L. Kappel.
+A. De Silva\*, <b>M. V. Perera\*</b>, K. Wickramasinghe, A. M. Naim , T. D. Lalitharatne and S. L. Kappel.
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[pdf]({{site.url}}/files/ICASSP_2020.pdf)]
 
