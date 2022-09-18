@@ -37,11 +37,11 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 ###  Selected Publications
 * <b>Transformer-based SAR Image Despeckling</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
-<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper]{https://arxiv.org/pdf/2201.09355.pdf}], [[code](https://github.com/malshaV/sar_transformer)]
+<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper](https://arxiv.org/pdf/2201.09355.pdf)], [[code](https://github.com/malshaV/sar_transformer)]
 
-* <b>Transformer-based SAR Image Despeckling</b><br>
+* <b>SAR Despeckling using Overcomplete Convolutional Networks</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
-<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper]{https://arxiv.org/pdf/2201.09355.pdf}], [[code](https://github.com/malshaV/sar_transformer)]
+<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper](https://arxiv.org/pdf/2205.15906.pdf)], [[code](https://github.com/malshaV/sar_overcomplete)]
 
 * <b>A Joint Convolutional and Spatial Quad-Directional LSTM Network for Phase Unwrapping</b> <br>
 <b>M. V. Perera\*</b>, A. De Silva\*.
@@ -51,3 +51,4 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 A. De Silva\*, <b>M. V. Perera\*</b>, K. Wickramasinghe, A. M. Naim , T. D. Lalitharatne and S. L. Kappel.
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[pdf]({{site.url}}/files/ICASSP_2020.pdf)]
 
+[\* denotes equal contribution]

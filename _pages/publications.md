@@ -4,13 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>Transformer-based SAR Image Despeckling</b><br>
-<b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
-<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper]{https://arxiv.org/pdf/2201.09355.pdf}], [[code](https://github.com/malshaV/sar_transformer)]
+<b>SAR Despeckling using a Denoising Diffusion ProbabilisticModel</b><br>
+<b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.
+<i>Under Review</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
 
 <b>Transformer-based SAR Image Despeckling</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
-<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper]{https://arxiv.org/pdf/2201.09355.pdf}], [[code](https://github.com/malshaV/sar_transformer)]
+<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper](https://arxiv.org/pdf/2201.09355.pdf)], [[code](https://github.com/malshaV/sar_transformer)]
+
+<b>SAR Despeckling using Overcomplete Convolutional Networks</b><br>
+<b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
+<i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper](https://arxiv.org/pdf/2205.15906.pdf)], [[code](https://github.com/malshaV/sar_overcomplete)]
 
 
 <b>Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals</b> <br> 
