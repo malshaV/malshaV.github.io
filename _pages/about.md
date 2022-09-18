@@ -12,13 +12,13 @@ redirect_from:
 </p> -->
 
 <!-- I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)), University of Moratuwa. -->
-<font size="-1">
+
 I am a second year PhD student in the Department of ELectrical and Computer Engineering at Johns Hopkins University, where I am advised by [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). My research broadly lies in the fields of computer vision and deep learning, with a focus on image restoration. 
 
-I graduate with a Bachelor's degree in Biomedical Engineering from U[University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
+I graduate with a Bachelor's degree in Biomedical Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
 
-I worked as a Research Assistant internship at  Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)) under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Prof. [Shigeki Sugii](https://scholar.google.com.sg/citations?hl=en&user=13LIAvAAAAAJ&view_op=list_works). 
-</font>
+I worked as a Research Assistant internship at  Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), Singapore under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Prof. [Shigeki Sugii](https://scholar.google.com.sg/citations?hl=en&user=13LIAvAAAAAJ&view_op=list_works). 
+
 <!-- There, I worked on cell classification in fluorescent microscopy images based analytical system to automatically identify the
 browning of adipocytes and  implementing a deep learning framework for brain hemorrhage segmentation in CT images. -->
 
@@ -26,12 +26,12 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 ### Recent News
-<font size="-1">
+
 * June 2022 - Attended CVPR 2022, New Orleans
 * April 2022 - Two papers accepted at International Geoscience and Remote Sensing Symposium 2022 [IGARSS](https://www.igarss2022.org/default.php)
 * August 2021 - Started my PhD at Johns Hopkins University
 * January 2021 - Paper on deep learning based phase unwrapping accepted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021.
-</font>
+
 
 
 ###  Selected Publications
