@@ -30,10 +30,10 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 * April 2022 - Two papers accepted at International Geoscience and Remote Sensing Symposium 2022 [IGARSS](https://www.igarss2022.org/default.php)
 * August 2021 - Started my PhD at Johns Hopkins University
 * January 2021 - Paper on deep learning based phase unwrapping accepted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021.
-<!-- * September 1, 2020. Started work as a lecturer on contract at ENTC.
-* August 24, 2020. Graduated with a First class in Biomedical Engineering Specialization of ENTC, University of Moratuwa. (Ranked 3rd in the ENTC among 117 undergraduates).
-* August 20, 2020. One paper accepted to IEEE International Conference on Systems, Man and Cybernetics (SMC) 2020, Toronto, Canada.
-* June 24, 2020. IEEE EMBS Student Branch Chapter at University of Moratuwa was awarded the Regional Best Student Chapter Award for 2019.
-* May 4-8, 2020. Attended 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain. - Virtual conference.
-* March 1, 2020, Joined the ENTC junior staff as a temporary instructor.
-* January 24, 2020. Paper got accepted to 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Barcelona, Spain. -->
+
+
+
+# Selected Publications
+* <b>Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals</b> <br> 
+Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, Kithmin Wickramasinghe, Asma M. Naim , Thilina Dulantha Lalitharatne and Simon L. Kappel.
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[pdf]({{site.url}}/files/ICASSP_2020.pdf)]
