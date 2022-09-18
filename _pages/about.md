@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center">
+<!-- <p align="center">
   <img src="/images/malsha_profile.jpg" alt="Photo" style="width: 225px;height:300px"/> 
-</p>
+</p> -->
 
 <!-- I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)), University of Moratuwa. -->
 
@@ -25,7 +25,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 
-# Recent News
+## Recent News
 * June 2022 - Attended CVPR 2022, New Orleans
 * April 2022 - Two papers accepted at International Geoscience and Remote Sensing Symposium 2022 [IGARSS](https://www.igarss2022.org/default.php)
 * August 2021 - Started my PhD at Johns Hopkins University
@@ -33,7 +33,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 
-# Selected Publications
+## Selected Publications
 * <b>Real-Time Hand Gesture Recognition Using Temporal Muscle Activation Maps of Multi-Channel SEMG Signals</b> <br> 
 Ashwin De Silva\*, <b>Malsha V. Perera\*</b>, Kithmin Wickramasinghe, Asma M. Naim , Thilina Dulantha Lalitharatne and Simon L. Kappel.
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[pdf]({{site.url}}/files/ICASSP_2020.pdf)]
