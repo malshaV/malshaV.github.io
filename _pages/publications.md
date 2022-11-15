@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>SAR Despeckling using a Denoising Diffusion ProbabilisticModel</b><br>
-<b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.
+<b>SAR Despeckling using a Denoising Diffusion Probabilistic Model</b><br>
+<b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.<br>
 <i>Under Review</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
 
 <b>Transformer-based SAR Image Despeckling</b><br>

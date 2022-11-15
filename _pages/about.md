@@ -35,6 +35,10 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 ###  Selected Publications
+* <b>SAR Despeckling using a Denoising Diffusion Probabilistic Model</b><br>
+<b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.
+<i>Under Review</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
+
 * <b>Transformer-based SAR Image Despeckling</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
 <i>IEEE International Geoscience and Remote Sensing Symposium (IGARSS) 2022</i> [[paper](https://arxiv.org/pdf/2201.09355.pdf)], [[code](https://github.com/malshaV/sar_transformer)]
@@ -52,3 +56,5 @@ A. De Silva\*, <b>M. V. Perera\*</b>, K. Wickramasinghe, A. M. Naim , T. D. Lali
 <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain, 2020</i>. [[pdf]({{site.url}}/files/ICASSP_2020.pdf)]
 
 [\* denotes equal contribution]
+
+<b>Full list of publications can be found [here]{https://malshav.github.io/publications/}. </b>

@@ -1,13 +1,16 @@
 # main links links
 main:
+  - title: "CV"
+    url: https://scholar.google.com/citations?user=LmcLUU4AAAAJ&hl=en
+
   - title: "Publications"
     url: /publications/
 
   - title: "Research"
     url: /research/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Education"
     url: /education/

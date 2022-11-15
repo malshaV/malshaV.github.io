@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Malsha V. Perera"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Malsha Perera"
 description              : &description "Biomedical Engineering Graduate"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/malsha-perera-110132157/"
+  linkedin         : "malsha-perera-110132157/"
   orcid            :
   pinterest        :
   soundcloud       :
