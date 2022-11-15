@@ -57,4 +57,4 @@ A. De Silva\*, <b>M. V. Perera\*</b>, K. Wickramasinghe, A. M. Naim , T. D. Lali
 
 [\* denotes equal contribution]
 
-<b>Full list of publications can be found [here]{https://malshav.github.io/publications/}. </b>
+<b>Full list of publications can be found [here](https://malshav.github.io/publications/). </b>
