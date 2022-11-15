@@ -25,7 +25,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 
-### Recent News
+#### Recent News
 
 * June 2022 - Attended CVPR 2022, New Orleans
 * April 2022 - Two papers accepted at International Geoscience and Remote Sensing Symposium 2022 [IGARSS](https://www.igarss2022.org/default.php)
@@ -34,7 +34,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 
-###  Selected Publications
+####  Selected Publications
 * <b>SAR Despeckling using a Denoising Diffusion Probabilistic Model</b><br>
 <b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.
 <i>Under Review</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
