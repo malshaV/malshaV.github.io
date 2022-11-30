@@ -13,11 +13,12 @@ redirect_from:
 
 <!-- I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)), University of Moratuwa. -->
 
-I am a second year PhD student in the Department of ELectrical and Computer Engineering at Johns Hopkins University, where I am advised by [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). My research broadly lies in the fields of computer vision and deep learning, with a focus on image restoration. 
+I am a second year PhD student in the Department of ELectrical and Computer Engineering at Johns Hopkins University, where I am advised by [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). My research broadly lies in the fields of computer vision and deep learning, with a focus on low-level vision problems including image restoration. Also, I am
+interested in applying deep generative models in tasks such as image restoration and image translation.
 
 I graduate with a Bachelor's degree in Biomedical Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
 
-I worked as a Research Assistant internship at  Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), Singapore under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Prof. [Shigeki Sugii](https://scholar.google.com.sg/citations?hl=en&user=13LIAvAAAAAJ&view_op=list_works). 
+I worked as a Research Assistant at  Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), Singapore under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Dr. [Shigeki Sugii](https://scholar.google.com.sg/citations?hl=en&user=13LIAvAAAAAJ&view_op=list_works). 
 
 <!-- There, I worked on cell classification in fluorescent microscopy images based analytical system to automatically identify the
 browning of adipocytes and  implementing a deep learning framework for brain hemorrhage segmentation in CT images. -->
