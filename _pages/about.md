@@ -16,7 +16,7 @@ redirect_from:
 I am a second year PhD student in the Department of ELectrical and Computer Engineering at Johns Hopkins University, where I am advised by [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). My research broadly lies in the fields of computer vision and deep learning, with a focus on low-level vision problems including image restoration. Also, I am
 interested in applying deep generative models in tasks such as image restoration and image translation.
 
-I graduate with a Bachelor's degree in Biomedical Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
+I graduated with a Bachelor's degree in Biomedical Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
 
 I worked as a Research Assistant at  Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), Singapore under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Dr. [Shigeki Sugii](https://scholar.google.com.sg/citations?hl=en&user=13LIAvAAAAAJ&view_op=list_works). 
 
