@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: {{site.url}}/files/New_CV.pdf
+    url: https://malshav.github.io/files/New_CV.pdf
 
   - title: "Publications"
     url: /publications/
