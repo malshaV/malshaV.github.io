@@ -38,7 +38,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 ####  Selected Publications
 * <b>SAR Despeckling using a Denoising Diffusion Probabilistic Model</b><br>
 <b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.
-<i>Under Review</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
+<i>IEEE Geoscience and Remote Sensing Letters 2023</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
 
 * <b>Transformer-based SAR Image Despeckling</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
