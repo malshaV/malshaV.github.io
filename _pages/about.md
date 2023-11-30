@@ -13,8 +13,7 @@ redirect_from:
 
 <!-- I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)), University of Moratuwa. -->
 
-I am a second year PhD student in the Department of ELectrical and Computer Engineering at Johns Hopkins University, where I am advised by [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en). My research broadly lies in the fields of computer vision and deep learning, with a focus on low-level vision problems including image restoration. Also, I am
-interested in applying deep generative models in tasks such as image restoration and image translation.
+I am currently in my third year of pursuing a Ph.D. under the supervision of [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en) at the Vision and Image Understanding (VIU) Lab within the Department of Electrical and Computer Engineering at Johns Hopkins University. My research encompasses the realms of computer vision and deep learning, primarily concentrating on the application of deep generative models to low-level tasks, especially in the domain of image restoration. Additionally, I am passionately involved in exploring challenges related to data memorization and devising solutions for fairness and bias issues within deep generative models.
 
 I graduated with a Bachelor's degree in Biomedical Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
 
@@ -28,17 +27,22 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 #### Recent News
 
+* Sep 2023 - Paper on Analyzing Bias in Diffusion-based Face Generation Models accepted at IEEE International Joint Conference on Biometrics (IJCB) 2023.
+* March 2023 - Paper on SAR Despeckling using a Denoising Diffusion Probabilistic Model accepted to IEEE Geoscience and Remote Sensing Letters
 * June 2022 - Attended CVPR 2022, New Orleans
 * April 2022 - Two papers accepted at International Geoscience and Remote Sensing Symposium 2022 [IGARSS](https://www.igarss2022.org/default.php)
 * August 2021 - Started my PhD at Johns Hopkins University
-* January 2021 - Paper on deep learning based phase unwrapping accepted to IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2021.
 
 
 
 ####  Selected Publications
+* <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.
+<i>IEEE International Joint Conference on Biometrics (IJCB) 2023</i> [[paper](https://arxiv.org/pdf/2305.06402.pdf)]
+
 * <b>SAR Despeckling using a Denoising Diffusion Probabilistic Model</b><br>
 <b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.
-<i>IEEE Geoscience and Remote Sensing Letters 2023</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
+<i>IEEE Geoscience and Remote Sensing Letters 2023</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)], [[code](https://github.com/malshaV/SAR_DDPM)]
 
 * <b>Transformer-based SAR Image Despeckling</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.

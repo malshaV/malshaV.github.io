@@ -4,9 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.<br>
+<i>IEEE International Joint Conference on Biometrics (IJCB) 2023</i> [[paper](https://arxiv.org/pdf/2305.06402.pdf)]
+
 <b>SAR Despeckling using a Denoising Diffusion Probabilistic Model</b><br>
 <b>M. V. Perera</b>, N. G. Nair, W. G. C. Bandara, and V. M. Patel.<br>
-<i>IEEE Geoscience and Remote Sensing Letters 2023</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)]
+<i>IEEE Geoscience and Remote Sensing Letters 2023</i> [[paper](https://arxiv.org/pdf/2206.04514.pdf)], [[code](https://github.com/malshaV/SAR_DDPM)]
+
 
 <b>Transformer-based SAR Image Despeckling</b><br>
 <b>M. V. Perera</b>, W. G. C. Bandara, J. M. J. Valanarasu, and V. M. Patel.
