@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- I graduated with a BSc in Biomedical Engineering from [University of Moratuwa](https://uom.lk/) and I am currently working as a Lecturer on Contract at the Dept. of Electronic and Telecommunication Engineering ([ENTC](http://ent.mrt.ac.lk/web3/)), University of Moratuwa. -->
 
-I am currently in my third year of pursuing a Ph.D. under the supervision of [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en) at the Vision and Image Understanding (VIU) Lab in the Department of Electrical and Computer Engineering at Johns Hopkins University. My research encompasses the realms of computer vision and deep learning, primarily concentrating on the application of deep generative models to low-level vision applications, especially in the domain of image restoration. Additionally, I am passionately involved in exploring challenges related to data memorization and devising solutions for fairness and bias issues within deep generative models.
+I am currently in my 4th year of pursuing a Ph.D. under the supervision of [Dr. Vishal Patel](https://scholar.google.com/citations?user=AkEXTbIAAAAJ&hl=en) at the Vision and Image Understanding (VIU) Lab in the Department of Electrical and Computer Engineering at Johns Hopkins University. My research encompasses the realms of computer vision and deep learning, primarily concentrating on investigating and mitigating data memorization issues, as well as addressing fairness and bias in generative models and vision-language models (VLMs). I am also interested in applying deep generative models to low-level vision tasks, particularly in image restoration.
 
 I graduated with a Bachelor's degree in Biomedical Engineering from [University of Moratuwa](https://uom.lk/), Sri Lanka in 2020, where I completed my thesis on designing a sEMG sensor system for controlling a bionic hand, advised by [Dr. Simon Kappel](https://scholar.google.com/citations?user=HTFY3fsAAAAJ&hl=en).
 
@@ -27,6 +27,9 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 #### Recent News
 
+* Oct 2024 - "Frame by Familiar Frame: Understanding Replication in Video Diffusion Models" was accepted to WACV 2025.
+* Oct 2024 - Participated as a Panelist in the Amazon Science and Internship Discussion at the AI2AI Research Festival.
+* May 2024 - Started my summer internship at Amazon as an Applied Scientist Intern.
 * Sep 2023 - Paper on Analyzing Bias in Diffusion-based Face Generation Models accepted at IEEE International Joint Conference on Biometrics (IJCB) 2023.
 * March 2023 - Paper on SAR Despeckling using a Denoising Diffusion Probabilistic Model accepted to IEEE Geoscience and Remote Sensing Letters
 * June 2022 - Attended CVPR 2022, New Orleans
@@ -36,6 +39,10 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 
 ####  Selected Publications
+* <b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
+A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.
+<i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</i> [[paper](https://arxiv.org/pdf/2403.19593)]
+
 * <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.
 <i>IEEE International Joint Conference on Biometrics (IJCB) 2023</i> [[paper](https://arxiv.org/pdf/2305.06402.pdf)]

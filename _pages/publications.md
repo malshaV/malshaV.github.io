@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
+A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.<br>
+<i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</i> [[paper](https://arxiv.org/pdf/2403.19593)]
+
+
 <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.<br>
 <i>IEEE International Joint Conference on Biometrics (IJCB) 2023</i> [[paper](https://arxiv.org/pdf/2305.06402.pdf)]
