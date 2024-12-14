@@ -27,6 +27,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 #### Recent News
 
+* Dec 2024 - "Unbiased-Diff: Analyzing and Mitigating Biases in Diffusion Model-based Face Image Generation" was accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
 * Oct 2024 - "Frame by Familiar Frame: Understanding Replication in Video Diffusion Models" was accepted to WACV 2025.
 * Oct 2024 - Participated as a Panelist in the Amazon Science and Internship Discussion at the AI2AI Research Festival.
 * May 2024 - Started my summer internship at Amazon as an Applied Scientist Intern.
@@ -42,6 +43,14 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 * <b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
 A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.
 <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</i> [[paper](https://arxiv.org/pdf/2403.19593)]
+
+* <b>Unbiased-Diff: Analyzing and Mitigating Biases in Diffusion Model-based Face Image Generation</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.
+<i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024</i>
+
+* <b>Mitigating Replication and Bias in Diffusion-based Image Synthesis Models with Rewards</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.
+<i>Under Review</i>
 
 * <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.

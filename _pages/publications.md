@@ -8,6 +8,13 @@ author_profile: true
 A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.<br>
 <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</i> [[paper](https://arxiv.org/pdf/2403.19593)]
 
+<b>Unbiased-Diff: Analyzing and Mitigating Biases in Diffusion Model-based Face Image Generation</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.<br>
+<i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024</i>
+
+<b>Mitigating Replication and Bias in Diffusion-based Image Synthesis Models with Rewards</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.<br>
+<i>Under Review</i>
 
 <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.<br>
