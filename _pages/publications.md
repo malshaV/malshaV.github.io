@@ -10,7 +10,7 @@ A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.<br>
 
 <b>Unbiased-Diff: Analyzing and Mitigating Biases in Diffusion Model-based Face Image Generation</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.<br>
-<i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024</i>
+<i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024</i>[[paper](https://ieeexplore.ieee.org/abstract/document/10820122)]
 
 <b>Mitigating Replication and Bias in Diffusion-based Image Synthesis Models with Rewards</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.<br>
