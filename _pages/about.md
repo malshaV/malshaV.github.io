@@ -27,19 +27,30 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 
 #### Recent News
 
+* July 2025 - One paper was accepted to IJCB 2025.
+* July 2025 - One paper was accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
+* May 2025 - Started my summer internship at Amazon AFT AI as an Applied Scientist Intern.
+* April 2025 - One paper was accepted to FG 2025.
 * Dec 2024 - "Unbiased-Diff: Analyzing and Mitigating Biases in Diffusion Model-based Face Image Generation" was accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM).
 * Oct 2024 - "Frame by Familiar Frame: Understanding Replication in Video Diffusion Models" was accepted to WACV 2025.
 * Oct 2024 - Participated as a Panelist in the Amazon Science and Internship Discussion at the AI2AI Research Festival.
 * May 2024 - Started my summer internship at Amazon as an Applied Scientist Intern.
-* Sep 2023 - Paper on Analyzing Bias in Diffusion-based Face Generation Models accepted at IEEE International Joint Conference on Biometrics (IJCB) 2023.
-* March 2023 - Paper on SAR Despeckling using a Denoising Diffusion Probabilistic Model accepted to IEEE Geoscience and Remote Sensing Letters
-* June 2022 - Attended CVPR 2022, New Orleans
-* April 2022 - Two papers accepted at International Geoscience and Remote Sensing Symposium 2022 [IGARSS](https://www.igarss2022.org/default.php)
-* August 2021 - Started my PhD at Johns Hopkins University
 
 
 
 ####  Selected Publications
+* <b>Debias-DPO: Debiasing Diffusion based Face Image Generation with Direct Preference Optimization</b><br>
+<b>M. V. Perera\*</b>, and V. M. Patel.
+<i>Accepted to IEEE International Joint Conference on Biometrics (IJCB) 2025</i> 
+
+* <b>Mitigating Replication and Bias in Diffusion-Based Face Image Synthesis Models With Rewards</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.
+<i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2025</i>[[paper](https://ieeexplore.ieee.org/abstract/document/11084940)]
+
+* <b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
+<b>M. V. Perera\*</b>, Kartik Narayan\*, , and V. M. Patel.
+<i>IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG) 2025</i> [[paper](https://ieeexplore.ieee.org/abstract/document/11099161)]
+
 * <b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
 A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.
 <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</i> [[paper](https://arxiv.org/pdf/2403.19593)]
