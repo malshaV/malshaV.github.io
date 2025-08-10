@@ -61,10 +61,6 @@ A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.
 <b>M. V. Perera</b>, and V. M. Patel.
 <i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024</i>[[paper](https://ieeexplore.ieee.org/abstract/document/10820122)]
 
-* <b>Mitigating Replication and Bias in Diffusion-based Image Synthesis Models with Rewards</b><br>
-<b>M. V. Perera</b>, and V. M. Patel.
-<i>Under Review</i>
-
 * <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.
 <i>IEEE International Joint Conference on Biometrics (IJCB) 2023</i> [[paper](https://arxiv.org/pdf/2305.06402.pdf)]
