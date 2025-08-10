@@ -19,6 +19,8 @@ I graduated with a Bachelor's degree in Biomedical Engineering from [University 
 
 I worked as a Research Assistant at  Agency for Science Technology and Research ([A*STAR](https://www.a-star.edu.sg/)), Singapore under the supervision of Dr.[Bhanu Prakash](https://scholar.google.com/citations?user=ZQ3VF_gAAAAJ&hl=en) and Dr. [Shigeki Sugii](https://scholar.google.com.sg/citations?hl=en&user=13LIAvAAAAAJ&view_op=list_works). 
 
+
+<b> Open to full-time roles: Research Scientist · Applied Scientist · Machine Learning Engineer </b>
 <!-- There, I worked on cell classification in fluorescent microscopy images based analytical system to automatically identify the
 browning of adipocytes and  implementing a deep learning framework for brain hemorrhage segmentation in CT images. -->
 
