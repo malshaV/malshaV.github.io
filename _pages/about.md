@@ -47,7 +47,7 @@ browning of adipocytes and  implementing a deep learning framework for brain hem
 <b>M. V. Perera</b>, and V. M. Patel.
 <i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2025</i>[[paper](https://ieeexplore.ieee.org/abstract/document/11084940)]
 
-* <b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
+* <b>Investigating Social Biases in Multimodal LLMs</b><br>
 <b>M. V. Perera\*</b>, Kartik Narayan\*, , and V. M. Patel.
 <i>IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG) 2025</i> [[paper](https://ieeexplore.ieee.org/abstract/document/11099161)]
 

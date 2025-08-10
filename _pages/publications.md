@@ -4,6 +4,18 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>Debias-DPO: Debiasing Diffusion based Face Image Generation with Direct Preference Optimization</b><br>
+<b>M. V. Perera\*</b>, and V. M. Patel.
+<i>Accepted to IEEE International Joint Conference on Biometrics (IJCB) 2025</i>
+
+<b>Mitigating Replication and Bias in Diffusion-Based Face Image Synthesis Models With Rewards</b><br>
+<b>M. V. Perera</b>, and V. M. Patel.
+<i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2025</i>[[paper](https://ieeexplore.ieee.org/abstract/document/11084940)]
+
+<b>Investigating Social Biases in Multimodal LLMs</b><br>
+<b>M. V. Perera\*</b>, Kartik Narayan\*, , and V. M. Patel.
+<i>IEEE 19th International Conference on Automatic Face and Gesture Recognition (FG) 2025</i> [[paper](https://ieeexplore.ieee.org/abstract/document/11099161)]
+
 <b>Frame by Familiar Frame: Understanding Replication in Video Diffusion Models</b><br>
 A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.<br>
 <i>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</i> [[paper](https://arxiv.org/pdf/2403.19593)]
@@ -11,10 +23,6 @@ A. Rahman\*, <b>M. V. Perera\*</b>, and V. M. Patel.<br>
 <b>Unbiased-Diff: Analyzing and Mitigating Biases in Diffusion Model-based Face Image Generation</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.<br>
 <i>IEEE Transactions on Biometrics, Behavior, and Identity Science (TBIOM) 2024</i>[[paper](https://ieeexplore.ieee.org/abstract/document/10820122)]
-
-<b>Mitigating Replication and Bias in Diffusion-based Image Synthesis Models with Rewards</b><br>
-<b>M. V. Perera</b>, and V. M. Patel.<br>
-<i>Under Review</i>
 
 <b>Analyzing Bias in Diffusion-based Face Generation Models</b><br>
 <b>M. V. Perera</b>, and V. M. Patel.<br>
